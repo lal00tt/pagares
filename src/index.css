@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page-pagares{
+  width: 8.5in;
+  height: 11in;
+}
+.pagare{
+  min-height: calc(100%/2);
+  page-break-after: before;
+}
