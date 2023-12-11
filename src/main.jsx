@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
 import App from './App'
-import Pdf from './pages/pdf'
+import Pdf from './pages/Pdf'
 // import moment from 'moment'
 import {
   createBrowserRouter,
